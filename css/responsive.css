@@ -1,0 +1,668 @@
+@media (max-width: 1399.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    .section-headding {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .section-headding h2 {
+        margin-bottom: 15px;
+    }
+    #blog_section .section-headding p {
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 1199.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    #hero_section {
+        padding-bottom: 100px;
+    }
+    #hero_section .hero-bottom-shap {
+        bottom: -2px;
+    }
+    #partners_section .partners_item img {
+        width: 140px;
+        margin: 0 auto;
+    }
+    .section-headding {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .section-headding h2 {
+        margin-bottom: 15px;
+    }
+    #hero_section .main-content button {
+        position: absolute;
+        top: 3px;
+        right: 223px;
+    }
+
+    #blog_section .section-headding p {
+        text-align: center;
+        margin: 0 auto;
+    }
+    #sereenshort_section .screenShortWraper .screenshortItem img {
+        width: 260px;
+        border-radius: 15px;
+        margin: 0 auto;
+    }
+    #sereenshort_section .screenshort-ifrem img {
+        position: absolute;
+        z-index: 11;
+        top: -14px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 272px;
+        height: 496px;
+    }
+}
+@media (max-width: 991.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    .section-padding {
+        padding: 60px 0px;
+    }
+
+    h2 {
+        font-size: 1.7441em;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    h5 {
+        font-size: 1.25em;
+    }
+
+    .section-headding {
+        margin-bottom: 40px;
+    }
+
+    .section-headding h2 {
+        font-size: 2.441em;
+        line-height: 45px;
+        margin-bottom: 15px;
+    }
+
+    .section-headding p {
+        font-size: 16px;
+        width: auto;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #navbar {
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 9999;
+        padding: 10px 0px;
+    }
+
+    /* hero section start here  */
+    #hero_section {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        z-index: 1;
+    }
+
+    #hero_section .hero-bottom-shap {
+        bottom: -1px;
+        z-index: -1;
+    }
+
+    #hero_section .main-content button {
+        right: 84px;
+    }
+
+    #hero_section .main-content p {
+        width: auto;
+    }
+
+    #hero_section .hero-left h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    /* hero section end here  */
+    /* Promo section start here  */
+    .singlePromo {
+        padding: 25px 25px 30px;
+    }
+
+    .pormo-desc {
+        margin-top: -20px;
+    }
+
+    .singlePromo:last-child .pormo-desc {
+        padding: 2px;
+    }
+
+    /* Promo section end here  */
+    /* Featurse section start here  */
+    #featurs_section .features-right .section-headding h2 {
+        width: auto;
+    }
+
+    #featurs_section .features-right .section-headding p {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    /* Featurse section end here  */
+    /* Downloard section  start here  */
+    #downloard_section .section-headding p {
+        text-align: left;
+    }
+
+    /* Downloard section  end here  */
+    /* Pricing section start here  */
+    #pricing_section::before {
+        left: 0;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .singlepricing {
+        padding: 25px;
+    }
+
+    /* Pricing section end here  */
+    /* Blog section start here  */
+    .singleBlog .blog_text {
+        padding: 20px 14px;
+    }
+
+    .singleBlog .blog_text ul li {
+        margin-bottom: 4px;
+        margin-right: 16px;
+    }
+
+    /* Blog section end here  */
+    /* footer area start here  */
+    #footer_area .footer-top {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    /* footer area end here  */
+    /* video overlay  */
+    .video-overlay-close {
+        position: fixed;
+        z-index: 9999;
+        top: 13%;
+        right: 9%;
+        font-size: 30px;
+    }
+    #sereenshort_section .screenShortWraper {
+        margin-top: 20px;
+    }
+    #partners_section .partners_item img {
+        margin: 0 auto;
+    }
+}
+@media (max-width: 767.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    .section-padding {
+        padding: 60px 0px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    h5 {
+        font-size: 1.25em;
+    }
+
+    .section-headding {
+        margin-bottom: 40px;
+    }
+
+    .section-headding h2 {
+        font-size: 1.7441em;
+        line-height: 32px;
+    }
+
+    .section-headding p {
+        font-size: 16px;
+        width: auto;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    /* hero section start here  */
+    #hero_section {
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    .hero-left h1 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+
+    #hero_section .main-content p {
+        margin: 15px 0px;
+        width: auto;
+        margin-bottom: 20px;
+    }
+
+    #hero_section .main-content form {
+        position: relative;
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    #hero_section .main-content button {
+        position: absolute;
+        top: 3px;
+        right: 100px;
+    }
+
+    /* hero section end here  */
+    /* Promo section start here */
+    .singlePromo {
+        padding: 40px;
+    }
+
+    .pormo-desc {
+        margin-top: -30px;
+    }
+
+    /* Promo section end here */
+    /* About section start here  */
+    .about-image {
+        max-width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    /* About section end here  */
+    /* Features section start here  */
+    .features-image {
+        max-width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #featurs_section .features-right .section-headding h2 {
+        width: auto;
+    }
+
+    #featurs_section .features-right .section-headding p {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    #featurs_section .features-icon {
+        justify-content: center;
+    }
+
+    /* Features section end here  */
+    /* Downloard section start here  */
+    #downloard_section .section-headding p {
+        text-align: left;
+    }
+
+    /* Downloard section end here  */
+    /* Pricing section start here  */
+    section#pricing_section .section-headding h2 {
+        width: auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    section#pricing_section .section-headding p {
+        width: auto;
+    }
+
+    #pricing_section::before {
+        left: 0;
+        background-size: cover;
+        background-position: center;
+    }
+
+    /* Pricing section end here  */
+    /* screen short section start here  */
+    #sereenshort_section .screenShortWraper .screenshortItem img {
+        border-radius: 15px;
+        max-width: 70%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    /* screen short section end here  */
+    /* team section start here  */
+    #team_section .teamMember img {
+        width: 100%;
+        border-radius: 12px;
+        transition: all 0.3s ease;
+    }
+
+    #team_section .teamMember .overlay {
+        border-radius: 12px;
+    }
+
+    /* team section end here  */
+    /* Footer section  start here  */
+    #footer_area .footer-top {
+        padding-top: 30px;
+    }
+
+    #footer_area .footer-top-image img {
+        width: 100%;
+    }
+
+    .copyWright p {
+        text-align: center;
+    }
+
+    #footer_area .footer-bottom .footer_bottom-link {
+        margin-top: 10px;
+
+        justify-content: center;
+    }
+
+    #footer-area .footer-bottom .footer_bottom-link {
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Footer section  end here  */
+    /* video overlay */
+    .video-overlay-close {
+        position: fixed;
+        top: 15%;
+        right: 2%;
+        font-size: 30px;
+        width: 35px;
+        height: 35px;
+    }
+
+    .video-overlay iframe {
+        top: 52%;
+    }
+    #sereenshort_section .screenShortWraper {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    body {
+        overflow-x: hidden;
+    }
+    .section-padding {
+        padding: 60px 0px;
+    }
+
+    h2 {
+        font-size: 1.7441em;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    h5 {
+        font-size: 1.25em;
+    }
+
+    .section-headding {
+        margin-bottom: 30px;
+    }
+
+    .section-headding h2 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .section-headding p {
+        font-size: 16px;
+        width: auto;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #navbar {
+        padding: 10px 0px;
+        background-color: #202877 !important;
+    }
+
+    nav#navbar img {
+        height: 30px;
+    }
+
+    button.navbar-toggler {
+        border: none;
+        color: #fff;
+        font-size: 20px;
+        outline: 0;
+        box-shadow: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #navbar ul {
+        padding: 20px;
+    }
+
+    #navbar ul li a {
+        font-size: 17px;
+    }
+
+    #hero_section {
+        padding-top: 100px;
+    }
+
+    .hero-left {
+        margin-bottom: 50px;
+    }
+
+    #hero_section .hero-bottom-shap {
+        bottom: -1px;
+    }
+
+    .hero-left h1 {
+        font-size: 30px;
+        line-height: 43px;
+        text-align: center;
+    }
+
+    #hero_section .main-content form {
+        position: relative;
+        display: block;
+        width: 300px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-left p {
+        width: auto !important;
+        text-align: center;
+    }
+
+    #hero_section .main-content form input {
+        width: 300px;
+    }
+
+    #hero_section .main-content button {
+        top: 3px;
+        right: -1px;
+    }
+
+    /* Promo section start here  */
+    .singlePromo {
+        padding: 25px 25px 35px;
+    }
+
+    .pormo-desc {
+        margin-top: -30px;
+    }
+
+    /* Promo section end here  */
+    /* About section start here  */
+    .about-image {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    /* About section end here  */
+    /* Features section start here */
+    section#featurs_section {
+        background: #f5f5f5;
+    }
+
+    #featurs_section .features-right .features-icon li {
+        height: 56px;
+    }
+
+    #featurs_section .features-right .section-headding p {
+        font-size: 14px;
+        text-align: left;
+    }
+
+    #featurs_section .features-right .section-headding h2 {
+        width: auto;
+    }
+
+    /* Features section end here */
+    /* Downlaord section start here */
+    #downloard_section .section-headding p {
+        font-size: 18px;
+        line-height: 30px;
+        text-align: left;
+    }
+
+    #downloard_section .downloard-btn a:first-child {
+        margin-bottom: 15px;
+    }
+
+    /* Downlaord section end here */
+    /* Accordion section start here  */
+    .accordion-header button {
+        font-size: 13px;
+
+        line-height: initial;
+    }
+
+    /* screenshort section start here  */
+    #sereenshort_section .screenshort-ifrem img {
+        display: none;
+    }
+
+    #sereenshort_section .owl-dots {
+        bottom: -50px;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        margin: 0px 5px;
+    }
+
+    /* screenshort section end here  */
+    /* Team section start here  */
+    #team_section .teamMember img {
+        width: 100%;
+        border-radius: 12px;
+        transition: all 0.3s ease;
+    }
+
+    #team_section .teamMember .overlay {
+        border-radius: 12px;
+    }
+
+    /* Team section end here  */
+    /* Blog section start here */
+    .singleBlog .blog_text {
+        padding: 20px;
+    }
+
+    .singleBlog .blog_text ul li {
+        font-size: 12px;
+        margin-right: 11px;
+    }
+
+    /* Blog section end here */
+
+    /* Accordion section end here  */
+    /* Pricing section start here   */
+    section#pricing_section .section-headding h2 {
+        width: auto;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    section#pricing_section .section-headding p {
+        width: auto;
+    }
+
+    /* Pricing section end here   */
+
+    /* Partner section start here  */
+    #partners_section .partners_item img {
+        text-align: center;
+        width: 130px;
+        margin: 0 auto;
+    }
+
+    /* Partner section end here  */
+    /* Footer section start here  */
+    #footer_area .footer-top-image {
+        position: absolute;
+        top: -6px;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    #footer_area .footer-top-image img {
+        width: 100%;
+    }
+
+    .footer_item h5 {
+        margin-bottom: 10px;
+    }
+
+    .copyWright p {
+        text-align: center;
+    }
+
+    #footer_area .footer-bottom .footer_bottom-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 5px;
+    }
+
+    #footer_area .footer-top {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    #sereenshort_section .screenShortWraper {
+        position: relative;
+        margin-top: 20px;
+    }
+    #partners_section .partners_item img {
+        margin: 0 auto;
+    }
+
+    /* Footer section end here  */
+    #partners_section .partners_item img {
+        margin: 0 auto;
+    }
+}
